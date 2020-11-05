@@ -1,0 +1,9 @@
+DROP TABLE Return;
+DROP TABLE Rental;
+DROP TABLE ForRent;
+DROP TABLE ForSale;
+DROP TABLE Reservations;
+DROP TABLE Branch;
+DROP TABLE Customer;
+DROP TABLE TimePeriod;
+DROP TABLE VehicleType;
